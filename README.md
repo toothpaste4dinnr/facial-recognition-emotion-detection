@@ -1,0 +1,3 @@
+# Facial Recognition Emotion Detection
+
+This project uses facial recognition to detect emotions...
